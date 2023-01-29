@@ -1,0 +1,24 @@
+[
+    {
+      "id": 0,
+      "flatId": 0,
+      "tenant": {
+        "name": "ABC",
+        "surname": "XYZ",
+        "email": "abc@gmail.com"
+      },
+      "dateFrom": "2023-01-29T14:39:32.875Z",
+      "dateTo": "2023-01-29T14:39:32.875Z"
+    },
+    {
+        "id": 1,
+        "flatId": 1,
+        "tenant": {
+          "name": "DEF",
+          "surname": "TUV",
+          "email": "def@gmail.com"
+        },
+        "dateFrom": "2023-01-29T14:39:32.875Z",
+        "dateTo": "2023-01-29T14:39:32.875Z"
+      }
+  ]
